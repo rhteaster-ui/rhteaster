@@ -1,0 +1,10 @@
+node_modules/
+session_auth/
+temp_tasks/
+logs/
+data/
+.env
+config.json
+.DS_Store
+*.log
+*.bak

@@ -1,0 +1,17 @@
+{
+  "brandName": "Agency Client",
+  "botName": "Agency AI Bot",
+  "botNumber": "",
+  "ownerNumber": "",
+  "ownerLid": "",
+  "prefix": ".",
+  "defaultAiModel": "gemini-3.8-flash-medium",
+  "fastAiModel": "gemini-3.8-flash-low",
+  "agyBin": "agy",
+  "autoRead": false,
+  "typingIndicator": true,
+  "agentTimeoutMs": 1800000,
+  "dashboardPort": 3000,
+  "dashboardPin": "",
+  "controlPort": 3847
+}
